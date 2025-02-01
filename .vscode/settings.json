@@ -7,9 +7,6 @@
         },
         "editor.wordHighlightStrongBorder": "#FF6347",
         "editor.wordHighlightBorder": "#FFD700",
-        "editor.selectionHighlightBorder": "#A9A9A9",
-        "activityBar.background": "#1A1C82",
-        "titleBar.activeBackground": "#2527B7",
-        "titleBar.activeForeground": "#FBFBFE"
+        "editor.selectionHighlightBorder": "#A9A9A9"
     }
 }
